@@ -1,0 +1,9 @@
+Nombre del cliente :  Diego
+Producto arrendado :  K001
+Hora de arriendo   :  21:16
+Fecha de arriendo  :  03/01/2021
+Precio base        :  2500.0
+Precio por hora    :  3000.0
+----------------------
+Tiempo Arrendado   :  0:0:0
+Total              :  2500.0

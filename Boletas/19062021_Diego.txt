@@ -1,0 +1,9 @@
+Nombre del cliente :  Diego
+Producto arrendado :  B002
+Hora de arriendo   :  00:24
+Fecha de arriendo  :  19/06/2021
+Precio base        :  3000.0
+Precio por hora    :  2000.0
+----------------------
+Tiempo Arrendado   :  0:0:15
+Total              :  3000.0
